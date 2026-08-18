@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-d6qxl7.indocuansite.space/sitemap.xml
